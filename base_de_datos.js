@@ -4,7 +4,7 @@ const mysql = require("mysql2");
      {
          host: "localhost",
          user: "root",
-        password: "11122003",
+        password: "Adminuser1_",
          database: "consultas"
   }
 );
